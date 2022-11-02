@@ -1,1 +1,0 @@
-Wokwisimulation link:https://wokwi.com/projects/new/esp32
